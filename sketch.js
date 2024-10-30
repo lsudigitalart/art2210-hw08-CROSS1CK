@@ -39,7 +39,7 @@ function mousePressed() {
   r= random(255)
   b= random(255)
   g= random(255)
-  gooberW = random(350, 400)
-  gooberH = random(200, 400)
+  gooberW = random(100, 400)
+  gooberH = random(100, 400)
   gooberM = random(100)
 }
